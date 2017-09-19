@@ -1,0 +1,15 @@
+html {
+	font-family: Verdana;
+	background-color: Black;
+}
+h1 {
+	color:white;
+	font-size:50px;
+	font-weight: normal;
+	text-align: center;
+}
+#download {
+	color: aquamarine;
+	font-size: 16px;
+	text-align: center;
+	}
